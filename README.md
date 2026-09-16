@@ -167,5 +167,4 @@ These guidelines bias toward **caution over speed**. For trivial tasks (simple t
 The goal is reducing costly mistakes on non-trivial work, not slowing down simple tasks.
 
 ## License
-
 MIT
